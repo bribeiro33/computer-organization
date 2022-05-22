@@ -1,1 +1,1 @@
-# data-structs-and-algos
+# intro-comp-org
