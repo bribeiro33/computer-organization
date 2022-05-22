@@ -1,0 +1,26 @@
+6 4 7 8
+655363
+10223616
+9764864
+14155782
+15597569
+8388608
+-9
+2
+0
+0
+Bunny T 1
+Cooki D 0
+Puppy D 2
+Cat U 0
+Skip U 0
+Var U 0
+Stack U 0
+1 lw Cat
+2 lw Skip
+3 sw Cooki
+4 sw Bunny
+5 lw Var
+1 .fill label
+2 .fill Skip
+3 .fill Stack

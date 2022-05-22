@@ -1,0 +1,24 @@
+9 4 5 5
+8519689
+8454144
+16842755
+1179650
+16842750
+12648448
+4849665
+23527424
+25165824
+5
+0
+1
+3
+GlobB T 6
+Five D 0
+One D 1
+Glob1 U 0
+GlobC U 0
+0 lw Five
+1 lw Glob1
+5 sw GlobC
+1 .fill Glob1
+3 .fill next

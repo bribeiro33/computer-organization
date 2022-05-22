@@ -1,0 +1,25 @@
+5 4 7 8
+8454144
+15007744
+19070978
+10027015
+12582912
+1
+0
+0
+0
+Skip T 2
+Cat D 0
+Var D 2
+Stack U 0
+Cooki U 0
+Bunny U 0
+Puppy U 0
+0 lw Stack
+1 sw Cooki
+3 lw Var
+4 sw Stack
+0 .fill loop
+1 .fill Stack
+2 .fill Bunny
+3 .fill Puppy
