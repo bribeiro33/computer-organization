@@ -1,0 +1,9 @@
+3 2 1 2                 (Header)
+8519683                 (Text)
+655361
+25034752
+-1                      (Data)
+0
+SubAdr D 1              (Symbol Table)
+0 lw neg1               (Relocation Table)
+1 .fill subOne

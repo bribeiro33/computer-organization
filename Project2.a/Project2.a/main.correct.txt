@@ -1,0 +1,11 @@
+6 1 1 2                 (Header)
+8454150                 (Text)
+8650752
+23527424
+16842753
+16842749
+25165824
+5                       (Data)
+SubAdr U 0              (Symbol Table)
+0 lw five               (Relocation Table)
+1 lw SubAdr
